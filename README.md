@@ -8,7 +8,6 @@ This script automates the installation of Docker Engine on Ubuntu 22.04 or later
 - [Usage](#usage)
 - [Features](#features)
 - [Author](#author)
-- [License](#license)
 
 ## Prerequisites
 
