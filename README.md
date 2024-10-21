@@ -20,5 +20,4 @@ This script automates the installation of Docker Engine on Ubuntu 22.04 or later
 1. **Clone the repository** or download the script to your local machine.
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/v-i-k-a-s-1-7/Docker-Installation.git
